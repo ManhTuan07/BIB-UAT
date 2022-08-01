@@ -1,0 +1,63 @@
+
+T
+java:S1948%"7Make "investorInstitutional" transient or serializable.(ªÅ§8±–™»›0
+V
+java:S1948&"4Make "investorIndividual" transient or serializable.(ÖŠÖúÿÿÿÿ8±–™»›0
+M
+java:S1068"0Remove this unused "investorType" private field.(í›Ä¿8Ä–™»›0
+E
+java:S1068"(Remove this unused "rmId" private field.( ª“×8Ä–™»›0
+P
+java:S1068".Remove this unused "signMethod" private field.(òû¦¨ùÿÿÿÿ8Å–™»›0
+U
+java:S1068!"3Remove this unused "identityPicture" private field.(·”Ó«üÿÿÿÿ8Å–™»›0
+S
+java:S1068""1Remove this unused "signatureFile" private field.(æËÏ¯úÿÿÿÿ8Å–™»›0
+V
+java:S1068%"9Remove this unused "investorInstitutional" private field.(ªÅ§8Å–™»›0
+X
+java:S1068&"6Remove this unused "investorIndividual" private field.(ÖŠÖúÿÿÿÿ8Æ–™»›0
+W
+java:S10681"5Remove this unused "authorizedPerson1" private field.(ÎÙÊ¯ÿÿÿÿÿ8Æ–™»›0
+R
+java:S10683"5Remove this unused "authorizedPerson2" private field.(éØĞù8Æ–™»›0
+M
+java:S10685"0Remove this unused "businessData" private field.(£ÆÄ8Ç–™»›0
+\
+java:S10686":Remove this unused "bankAccountInformation" private field.(öØ§°üÿÿÿÿ8Ç–™»›0
+N
+java:S10687",Remove this unused "fatcaCRS" private field.(¥ó™ûÿÿÿÿ8Ç–™»›0
+\
+java:S1068C":Remove this unused "bankAccountInformation" private field.(öØ§°üÿÿÿÿ8Ç–™»›0
+]
+java:S1068D";Remove this unused "investmentSourceDetails" private field.(ß”¶Œıÿÿÿÿ8È–™»›0
+Z
+java:S1068]"8Remove this unused "npwpRegistrationDate" private field.(Ë® âûÿÿÿÿ8È–™»›0
+X
+java:S1068`"6Remove this unused "siupExpirationDate" private field.(Úûıÿÿÿÿ8È–™»›0
+W
+java:S1068c"5Remove this unused "skdExpirationDate" private field.(½„Æ×øÿÿÿÿ8È–™»›0
+Z
+java:S1068ˆ"<Remove this unused "authorizedPersonFullName" private field.(ú¦¹…8É–™»›0
+_
+java:S1068‰"<Remove this unused "authorizedPersonPosition" private field.(¨„Ø¼øÿÿÿÿ8É–™»›0
+]
+java:S1068Š"?Remove this unused "authorizedPersonMobilePhone" private field.(ÿÍÈ8Ê–™»›0
+W
+java:S1068‹"9Remove this unused "authorizedPersonEmail" private field.(şªà˜8Ê–™»›0
+G
+java:S1068¶")Remove this unused "fatca" private field.(ç’‹á8Ó–™»›0
+T
+java:S1068·"1Remove this unused "tinForeignTIN" private field.(ı¤ˆÔùÿÿÿÿ8Ô–™»›0
+^
+java:S1068¸"@Remove this unused "tinForeignTINIssuanceCountry" private field.(ŸôÖ§8Õ–™»›0
+K
+java:S1068¹"(Remove this unused "giin" private field.(èÀâàüÿÿÿÿ8Õ–™»›0
+X
+java:S1068º":Remove this unused "substantialUSOwnerName" private field.(À¢ìä8Õ–™»›0
+Z
+java:S1068»"=Remove this unused "substantialUSOwnerAddress" private field.(Êë‘n8Ö–™»›0
+\
+java:S1068¼"9Remove this unused "substantialUSOwnerTIN" private field.(ıõ§Çıÿÿÿÿ8Ö–™»›0
+W
+java:S1068ˆ"4Remove this unused "beneficiaryOwner" private field.(Ú‚ÂÓşÿÿÿÿ8Ö–™»›0

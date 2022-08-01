@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BIB-UAT.iml" filepath="$PROJECT_DIR$/.idea/BIB-UAT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rm-tools-api/apps/bib.iml" filepath="$PROJECT_DIR$/rm-tools-api/apps/bib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rm-tools-api/apps/bib-auth/bib-auth.iml" filepath="$PROJECT_DIR$/rm-tools-api/apps/bib-auth/bib-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rm-tools-api/apps/bib-bff/bib-bff.iml" filepath="$PROJECT_DIR$/rm-tools-api/apps/bib-bff/bib-bff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rm-tools-api/apps/bib-cms/bib-cms.iml" filepath="$PROJECT_DIR$/rm-tools-api/apps/bib-cms/bib-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rm-tools-api/libs/bib-common/bib-common.iml" filepath="$PROJECT_DIR$/rm-tools-api/libs/bib-common/bib-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rm-tools-api/apps/bib-crm/bib-crm.iml" filepath="$PROJECT_DIR$/rm-tools-api/apps/bib-crm/bib-crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rm-tools-api/libs/bib-libs.iml" filepath="$PROJECT_DIR$/rm-tools-api/libs/bib-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rm-tools-api/rm-tools-api.iml" filepath="$PROJECT_DIR$/rm-tools-api/rm-tools-api.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bib-bff" />
+        <module name="bib-cms" />
+        <module name="bib-auth" />
+        <module name="bib-crm" />
+      </profile>
+      <profile name="Annotation profile for rm-tools-api" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.4.2.Final/mapstruct-processor-1.4.2.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.4.2.Final/mapstruct-1.4.2.Final.jar" />
+        </processorPath>
+        <module name="bib-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bib" target="1.8" />
+      <module name="bib-auth" target="11" />
+      <module name="bib-bff" target="11" />
+      <module name="bib-cms" target="11" />
+      <module name="bib-common" target="11" />
+      <module name="bib-crm" target="11" />
+      <module name="bib-libs" target="1.8" />
+      <module name="rm-tools-api" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bib-auth" options="-parameters" />
+      <module name="bib-bff" options="-parameters" />
+      <module name="bib-cms" options="-parameters" />
+      <module name="bib-common" options="-parameters" />
+      <module name="bib-crm" options="-parameters" />
+    </option>
+  </component>
+</project>

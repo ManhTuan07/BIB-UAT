@@ -1,0 +1,115 @@
+
+E
+java:S1068"(Remove this unused "rmId" private field.( ª“×8Ì•™»›0
+K
+java:S1068"/Remove this unused "companyName" private field.(Õîæ+8Ì•™»›0
+W
+java:S1068"5Remove this unused "countryOfDomicile" private field.(†‘ÌÕøÿÿÿÿ8Í•™»›0
+Z
+java:S1068 "8Remove this unused "placeOfEstablishment" private field.(Ñ‚Ûøÿÿÿÿ8Í•™»›0
+Y
+java:S1068!"7Remove this unused "dateOfEstablishment" private field.(ÊëíÑûÿÿÿÿ8Î•™»›0
+X
+java:S1068"";Remove this unused "articlesOfAssociationNo" private field.(Ìı…é8Î•™»›0
+G
+java:S1068#"*Remove this unused "npwpNo" private field.(è˜×á8Ó•™»›0
+Z
+java:S1068$"8Remove this unused "npwpRegistrationDate" private field.(Ë® âûÿÿÿÿ8Ó•™»›0
+G
+java:S1068&"*Remove this unused "siupNo" private field.(³Óàˆ8Ô•™»›0
+X
+java:S1068'"6Remove this unused "siupExpirationDate" private field.(Úûıÿÿÿÿ8Ô•™»›0
+F
+java:S1068(")Remove this unused "skdNo" private field.(ÕÉë¨8Ô•™»›0
+W
+java:S1068)"5Remove this unused "skdExpirationDate" private field.(½„Æ×øÿÿÿÿ8Ô•™»›0
+O
+java:S1068+"2Remove this unused "companyAddress" private field.(¿öğª8Ô•™»›0
+P
+java:S1068,"3Remove this unused "companyCityCode" private field.(¦«Øñ8Õ•™»›0
+P
+java:S1068-"3Remove this unused "companyCityName" private field.(šÇæ¾8Õ•™»›0
+W
+java:S1068."5Remove this unused "companyPostalCode" private field.(éˆ¤¹ıÿÿÿÿ8Õ•™»›0
+K
+java:S1068/")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ8Ö•™»›0
+Q
+java:S10680"/Remove this unused "officePhone" private field.(ÎÿÅ³ÿÿÿÿÿ8Ö•™»›0
+a
+java:S10681"?Remove this unused "companyCorrespondentAddress" private field.(òë‹ûÿÿÿÿ8Ö•™»›0
+b
+java:S10682"@Remove this unused "companyCorrespondentCityCode" private field.(»¥œåûÿÿÿÿ8Ö•™»›0
+]
+java:S10683"@Remove this unused "companyCorrespondentCityName" private field.(ø‘ˆ’8Ö•™»›0
+d
+java:S10684"BRemove this unused "companyCorrespondentPostalCode" private field.(”úäüÿÿÿÿ8×•™»›0
+X
+java:S10685"6Remove this unused "emailCorrespondent" private field.(ù»¥úøÿÿÿÿ8×•™»›0
+_
+java:S10688"=Remove this unused "authorizedPerson1FullName" private field.(±ÍŞ¿üÿÿÿÿ8×•™»›0
+_
+java:S10689"=Remove this unused "authorizedPerson1Position" private field.(“ÌÉäüÿÿÿÿ8×•™»›0
+]
+java:S1068:"@Remove this unused "authorizedPerson1MobilePhone" private field.(£§×8Ø•™»›0
+W
+java:S1068;":Remove this unused "authorizedPerson1Email" private field.(í‡‘÷8Ø•™»›0
+Z
+java:S1068>"=Remove this unused "authorizedPerson2FullName" private field.(Šáõì8Ø•™»›0
+Z
+java:S1068?"=Remove this unused "authorizedPerson2Position" private field.(ÂÅ¶8Ø•™»›0
+]
+java:S1068@"@Remove this unused "authorizedPerson2MobilePhone" private field.(šãúÖ8Ù•™»›0
+\
+java:S1068A":Remove this unused "authorizedPerson2Email" private field.(ûàÎøıÿÿÿÿ8Ù•™»›0
+U
+java:S1068C"8Remove this unused "investorsRiskProfile" private field.(Ëı•§8Û•™»›0
+Q
+java:S1068F"/Remove this unused "companyType" private field.(Àö“Øøÿÿÿÿ8Ü•™»›0
+V
+java:S1068G"9Remove this unused "companyCharacteristic" private field.(›¡áõ8Ü•™»›0
+Q
+java:S1068H"/Remove this unused "incomeLevel" private field.(ı¶Å«úÿÿÿÿ8Ü•™»›0
+T
+java:S1068I"7Remove this unused "investmentObjective" private field.(°ï•ç8İ•™»›0
+M
+java:S1068J"0Remove this unused "sourceOfFund" private field.(ªóÕ8İ•™»›0
+N
+java:S1068M",Remove this unused "bankName" private field.(§Û©Èüÿÿÿÿ8İ•™»›0
+R
+java:S1068N"5Remove this unused "bankAccountNumber" private field.(¿±ı—8İ•™»›0
+U
+java:S1068O"3Remove this unused "bankAccountName" private field.(”û¦÷ûÿÿÿÿ8â•™»›0
+P
+java:S1068P".Remove this unused "bankBranch" private field.(Ÿ“¦±øÿÿÿÿ8ã•™»›0
+F
+java:S1068S")Remove this unused "fatca" private field.(ç’‹á8ã•™»›0
+S
+java:S1068T"1Remove this unused "tinForeignTIN" private field.(ı¤ˆÔùÿÿÿÿ8ì•™»›0
+]
+java:S1068U"@Remove this unused "tinForeignTINIssuanceCountry" private field.(ŸôÖ§8ì•™»›0
+J
+java:S1068V"(Remove this unused "giin" private field.(èÀâàüÿÿÿÿ8í•™»›0
+W
+java:S1068W":Remove this unused "substantialUSOwnerName" private field.(À¢ìä8í•™»›0
+Y
+java:S1068X"=Remove this unused "substantialUSOwnerAddress" private field.(Êë‘n8í•™»›0
+[
+java:S1068Y"9Remove this unused "substantialUSOwnerTIN" private field.(ıõ§Çıÿÿÿÿ8í•™»›0
+U
+java:S1068["3Remove this unused "identityPicture" private field.(·”Ó«üÿÿÿÿ8í•™»›0
+S
+java:S1068\"1Remove this unused "signatureFile" private field.(æËÏ¯úÿÿÿÿ8î•™»›0
+P
+java:S1068^".Remove this unused "signMethod" private field.(òû¦¨ùÿÿÿÿ8î•™»›0
+L
+java:S1068_"*Remove this unused "status" private field.(¦­œ˜ÿÿÿÿÿ8î•™»›0
+I
+java:S1068b"'Remove this unused "sid" private field.(Ş¹øşÿÿÿÿ8î•™»›0
+D
+java:S1068c"(Remove this unused "ifua" private field.(È¥‡8î•™»›0
+K
+java:S1068d".Remove this unused "externalId" private field.(À“ó8ï•™»›0
+K
+java:S1068e"/Remove this unused "rmPartnerId" private field.(êö’8ï•™»›0
+J
+java:S1068f"-Remove this unused "createDto" private field.(Ö¹ ¤8ï•™»›0

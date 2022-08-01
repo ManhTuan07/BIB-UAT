@@ -1,0 +1,262 @@
+
+p	java:S115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿î©¯
+P
+java:S1118":Add a private constructor to hide the implicit public one.(å¬ó”
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ğÔş
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(óìµõ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ºÑ¾ıÿÿÿÿ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(—év
+`
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(Í²Úœşÿÿÿÿ
+[
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(ºø×ú
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ê¸üĞúÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(«ğŞ¼ıÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Î™†şÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(À±Ø
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÈÈ†Û
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(…ìÚ²
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(È¨ïè
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(€ò·™
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÆÒ¯
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(áÇƒõ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Áû­Ğ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ó‘€×
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(æéÌ‘ûÿÿÿÿ
+`
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(©Šíıÿÿÿÿ
+[
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(¥í£¿
+`
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(û¾âåşÿÿÿÿ
+`
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(§Ú‹„ÿÿÿÿÿ
+[
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(ÕşÍ¢
+[
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(âÈ´¿
+`
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(ã„…¦ùÿÿÿÿ
+`
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(÷ÖÖâıÿÿÿÿ
+[
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(‘ê¼ö
+[
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(¯Å±Å
+[
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(¼Âãô
+[
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(Öîüø
+[
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(¾»í‹
+`
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(Äï“ûÿÿÿÿ
+`
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(Óˆ†¹ıÿÿÿÿ
+[
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(¼Ï—Ò
+`
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(äò‰Şÿÿÿÿÿ
+[
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(…Éù°
+[
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(Ÿÿù 
+[
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(¸Ëó¼
+`
+java:S1124J"EReorder the modifiers to comply with the Java Language Specification.(ÿìàšıÿÿÿÿ
+[
+java:S1124K"EReorder the modifiers to comply with the Java Language Specification.(Ñ¬éŒ
+[
+java:S1124N"EReorder the modifiers to comply with the Java Language Specification.(ç¼©Æ
+`
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(«Â‡‰ûÿÿÿÿ
+`
+java:S1124R"EReorder the modifiers to comply with the Java Language Specification.(µËš÷şÿÿÿÿ
+`
+java:S1124S"EReorder the modifiers to comply with the Java Language Specification.(–Íà·ûÿÿÿÿ
+Z
+java:S1124V"EReorder the modifiers to comply with the Java Language Specification.(˜œŠA
+[
+java:S1124W"EReorder the modifiers to comply with the Java Language Specification.(ëÂ¨¨
+[
+java:S1124Z"EReorder the modifiers to comply with the Java Language Specification.(â„½
+[
+java:S1124["EReorder the modifiers to comply with the Java Language Specification.(Íöèß
+`
+java:S1124^"EReorder the modifiers to comply with the Java Language Specification.(ÊØè‘ùÿÿÿÿ
+[
+java:S1124_"EReorder the modifiers to comply with the Java Language Specification.(Ş™é
+`
+java:S1124b"EReorder the modifiers to comply with the Java Language Specification.(¸ÄÖÖşÿÿÿÿ
+[
+java:S1124c"EReorder the modifiers to comply with the Java Language Specification.(Ö¢Ğ
+`
+java:S1124f"EReorder the modifiers to comply with the Java Language Specification.(Æº ıÿÿÿÿ
+Z
+java:S1124g"EReorder the modifiers to comply with the Java Language Specification.(÷ûây
+[
+java:S1124j"EReorder the modifiers to comply with the Java Language Specification.(¶¿ €
+Z
+java:S1124k"EReorder the modifiers to comply with the Java Language Specification.( ‘²t
+`
+java:S1124n"EReorder the modifiers to comply with the Java Language Specification.(‡±ö¾ûÿÿÿÿ
+[
+java:S1124o"EReorder the modifiers to comply with the Java Language Specification.(ŞïÒ¾
+`
+java:S1124r"EReorder the modifiers to comply with the Java Language Specification.(Åúıªÿÿÿÿÿ
+[
+java:S1124s"EReorder the modifiers to comply with the Java Language Specification.(Àìû³
+`
+java:S1124v"EReorder the modifiers to comply with the Java Language Specification.(ÛäÍ şÿÿÿÿ
+Z
+java:S1124w"EReorder the modifiers to comply with the Java Language Specification.(·ü¤
+`
+java:S1124z"EReorder the modifiers to comply with the Java Language Specification.(¹ú¼–ûÿÿÿÿ
+`
+java:S1124{"EReorder the modifiers to comply with the Java Language Specification.(¥¬äõüÿÿÿÿ
+`
+java:S1124~"EReorder the modifiers to comply with the Java Language Specification.(Á€…äşÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ñ—¤îøÿÿÿÿ
+a
+java:S1124‚"EReorder the modifiers to comply with the Java Language Specification.(°íĞ¦ùÿÿÿÿ
+a
+java:S1124ƒ"EReorder the modifiers to comply with the Java Language Specification.(îàâúÿÿÿÿ
+\
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(«¡ô
+a
+java:S1124‡"EReorder the modifiers to comply with the Java Language Specification.(÷Å´Ãşÿÿÿÿ
+a
+java:S1124Š"EReorder the modifiers to comply with the Java Language Specification.(™©ñÿÿÿÿÿ
+\
+java:S1124‹"EReorder the modifiers to comply with the Java Language Specification.(û‘Ì
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‚ÛØ°ùÿÿÿÿ
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ìúüì
+[
+java:S1124’"EReorder the modifiers to comply with the Java Language Specification.(ı·¨X
+a
+java:S1124“"EReorder the modifiers to comply with the Java Language Specification.(­èĞúÿÿÿÿ
+\
+java:S1124”"EReorder the modifiers to comply with the Java Language Specification.(‰Œ¿
+a
+java:S1124•"EReorder the modifiers to comply with the Java Language Specification.(›Îİõúÿÿÿÿ
+\
+java:S1124—"EReorder the modifiers to comply with the Java Language Specification.(şİ¥Ğ
+\
+java:S1124˜"EReorder the modifiers to comply with the Java Language Specification.(Ò×ìè
+\
+java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(ş©ÿ·
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(“ô°‡ÿÿÿÿÿ
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Æ«‰Ãúÿÿÿÿ
+\
+java:S1124Ÿ"EReorder the modifiers to comply with the Java Language Specification.(“êº¥
+\
+java:S1124¢"EReorder the modifiers to comply with the Java Language Specification.(ë‹í
+a
+java:S1124£"EReorder the modifiers to comply with the Java Language Specification.(¸ô’ñşÿÿÿÿ
+a
+java:S1124¥"EReorder the modifiers to comply with the Java Language Specification.(öö«¨ÿÿÿÿÿ
+a
+java:S1124¦"EReorder the modifiers to comply with the Java Language Specification.(‰§¤Ùÿÿÿÿÿ
+a
+java:S1124¨"EReorder the modifiers to comply with the Java Language Specification.(Æè–Ôùÿÿÿÿ
+a
+java:S1124©"EReorder the modifiers to comply with the Java Language Specification.(´³æÖùÿÿÿÿ
+\
+java:S1124«"EReorder the modifiers to comply with the Java Language Specification.(íÓ´ñ
+\
+java:S1124¬"EReorder the modifiers to comply with the Java Language Specification.(¹ë©ñ
+\
+java:S1124®"EReorder the modifiers to comply with the Java Language Specification.(İô‚Ì
+a
+java:S1124¯"EReorder the modifiers to comply with the Java Language Specification.(€µ®ˆûÿÿÿÿ
+\
+java:S1124±"EReorder the modifiers to comply with the Java Language Specification.(˜ŠÆ
+a
+java:S1124²"EReorder the modifiers to comply with the Java Language Specification.(’Ì¤°üÿÿÿÿ
+a
+java:S1124´"EReorder the modifiers to comply with the Java Language Specification.(ÿøÖÖşÿÿÿÿ
+\
+java:S1124µ"EReorder the modifiers to comply with the Java Language Specification.(ØÀ©À
+\
+java:S1124·"EReorder the modifiers to comply with the Java Language Specification.(ÃƒãÅ
+[
+java:S1124¸"EReorder the modifiers to comply with the Java Language Specification.(àÒ×S
+a
+java:S1124º"EReorder the modifiers to comply with the Java Language Specification.(å»Ù½ùÿÿÿÿ
+\
+java:S1124»"EReorder the modifiers to comply with the Java Language Specification.(ªÕÉ®
+a
+java:S1124¾"EReorder the modifiers to comply with the Java Language Specification.(çˆ—êıÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(ï¤±âûÿÿÿÿ
+\
+java:S1124À"EReorder the modifiers to comply with the Java Language Specification.(ƒåıÀ
+a
+java:S1124Á"EReorder the modifiers to comply with the Java Language Specification.(î ôùÿÿÿÿ
+a
+java:S1124Ã"EReorder the modifiers to comply with the Java Language Specification.(¹ÉÚ™şÿÿÿÿ
+\
+java:S1124Ä"EReorder the modifiers to comply with the Java Language Specification.(‡¸¹”
+a
+java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(“ş„üüÿÿÿÿ
+\
+java:S1124Ç"EReorder the modifiers to comply with the Java Language Specification.(ÄŸÂ
+a
+java:S1124Ê"EReorder the modifiers to comply with the Java Language Specification.(¨úÚùÿÿÿÿ
+a
+java:S1124Ë"EReorder the modifiers to comply with the Java Language Specification.(Ş˜¬¸øÿÿÿÿ
+a
+java:S1124Ş"EReorder the modifiers to comply with the Java Language Specification.(›‰§µıÿÿÿÿ
+\
+java:S1124ß"EReorder the modifiers to comply with the Java Language Specification.(˜‹ÕÒ
+\
+java:S1124à"EReorder the modifiers to comply with the Java Language Specification.(¿¥¿ë
+a
+java:S1124ã"EReorder the modifiers to comply with the Java Language Specification.(è² àúÿÿÿÿ
+\
+java:S1124ä"EReorder the modifiers to comply with the Java Language Specification.(¼”Ãî
+a
+java:S1124å"EReorder the modifiers to comply with the Java Language Specification.(¿ÖØòÿÿÿÿÿ
+a
+java:S1124æ"EReorder the modifiers to comply with the Java Language Specification.(–§®üÿÿÿÿ
+\
+java:S1124è"EReorder the modifiers to comply with the Java Language Specification.(ïº°¢
+a
+java:S1124é"EReorder the modifiers to comply with the Java Language Specification.(¨°ŞÀıÿÿÿÿ
+[
+java:S1124ì"EReorder the modifiers to comply with the Java Language Specification.(öÉù
+[
+java:S1124í"EReorder the modifiers to comply with the Java Language Specification.(‚ä–c
+\
+java:S1124ï"EReorder the modifiers to comply with the Java Language Specification.(±†–ª
+\
+java:S1124ğ"EReorder the modifiers to comply with the Java Language Specification.(’ªŠÍ
+a
+java:S1124ò"EReorder the modifiers to comply with the Java Language Specification.(ß¾€êùÿÿÿÿ
+a
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(µ×Á øÿÿÿÿ
+\
+java:S1124õ"EReorder the modifiers to comply with the Java Language Specification.( ™İÈ
